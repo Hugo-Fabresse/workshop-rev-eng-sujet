@@ -1,6 +1,6 @@
 # **[Reverse] Lost in the Virtual Machine**
 
-## **🕵️♂️ Introduction**
+## **🕵️ Introduction**
 > _Vous ouvrez les yeux. Tout est flou. Les chiffres et les lettres dansent devant vous, incompréhensibles. Vous entendez un bruit sourd, comme une horloge qui s'arrête. Mais pas d’aiguilles, juste du code. Du code qui vous observe._
 
 Quelque chose cloche. Vous avez été projeté dans une **réalité obscure**, une **machine virtuelle que vous ne connaissez pas**. Un environnement que **vous ne contrôlez pas**.
